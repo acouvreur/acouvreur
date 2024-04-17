@@ -7,9 +7,9 @@
 
 #### 🗣️ Talks
 
-- Feb. 2024 - [JUG Montreal - WireMock OpenAPI Generator](https://www.youtube.com/watch?v=0cPt_w7NIs0)
-- Jun. 2023 - [CNCF Montreal - Cloud Native Users and Contributor Stories](https://community.cncf.io/events/details/cncf-montreal-presents-q2-cncf-montreal-cloud-native-users-and-contributor-stories/)
-- Apr. 2023 - [JUG Montreal - Scale to Zero with Sablier](https://www.youtube.com/watch?v=0cPt_w7NIs0)
+- Feb. 2024 - [JUG Montreal - WireMock OpenAPI Generator](https://www.youtube.com/watch?v=0jhONfBrcKw) in French 🇫🇷
+- Jun. 2023 - [CNCF Montreal - Cloud Native Users and Contributor Stories](https://community.cncf.io/events/details/cncf-montreal-presents-q2-cncf-montreal-cloud-native-users-and-contributor-stories/) in English 🇺🇸
+- Apr. 2023 - [JUG Montreal - Scale to Zero with Sablier](https://www.youtube.com/watch?v=0cPt_w7NIs0) in French 🇫🇷
 
 #### 🏆 Hackathons
 
