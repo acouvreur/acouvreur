@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Sablier](https://github.com/acouvreur/sablier) and the [Wiremock OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator/pull/17614)
+- 🔭 I’m currently working on [Sablier](https://github.com/sablierapp/sablier) and the [Wiremock OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator/pull/17614)
 - 💬 Ask me about Java, Golang, Clean Code, TDD, DevOps, GitOps
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alexis-couvreur/)
 - ⚡ Fun fact: My lights are automatically turning off when I start a movie on my smart TV (Plex + Tautulli Hooks + [this](https://github.com/acouvreur/tautulli-hue-cinema))
