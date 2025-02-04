@@ -20,6 +20,18 @@
 - Sep. 2020 - [ONE Record Hackathon - Developer Prize](https://devpost.com/software/one-track-by-the-french-team)
 - Oct. 2020 - [Traefik Hackaethon - Containers on Demand - 3rd place](https://traefik.io/blog/traefik-hackaethon-2020-middleware-plugins-brain-dump/)
 
+#### 📜 Certifications
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="33.3%"><a href="https://www.credly.com/badges/49659c2b-ab14-4f08-a64c-c32ac9511c61/public_url"><img src="./assets/github-administration.png" width="100px;" alt="GitHub Administration"/><br /><sub><b>GitHub Administration</b></sub></a><br /><sub>Issued on: Feb. 2025</sub></td>
+      <td align="center" valign="top" width="33.3%"></td>
+      <td align="center" valign="top" width="33.3%"></td>
+    </tr>
+  </tbody>
+</table>
+
 
 <!--
 **acouvreur/acouvreur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
