@@ -25,9 +25,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="33.3%"><a href="https://www.credly.com/badges/49659c2b-ab14-4f08-a64c-c32ac9511c61/public_url"><img src="./assets/github-administration.png" width="100px;" alt="GitHub Administration"/><br /><sub><b>GitHub Administration</b></sub></a><br /><sub>Issued on: Feb. 2025</sub></td>
-      <td align="center" valign="top" width="33.3%"></td>
-      <td align="center" valign="top" width="33.3%"></td>
+      <td align="center" valign="top"><a href="https://www.credly.com/badges/49659c2b-ab14-4f08-a64c-c32ac9511c61/public_url"><img src="./assets/github-administration.png" width="100px;" alt="GitHub Administration"/><br /><sub><b>GitHub Administration</b></sub></a><br /><sub>Issued on: Feb. 2025</sub></td>
     </tr>
   </tbody>
 </table>
